@@ -1,4 +1,4 @@
 whisper
-gradio===3.27.0
+gradio===6.15.1
 pytube
 pysrt
